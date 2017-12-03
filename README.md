@@ -1,11 +1,9 @@
 My Shader Books:
 # Unity-5.x-Shaders-and-Effects-Cookbook
-
+http://ebook-dl.com/book/2175
 
 # TheBookofshaders
 https://github.com/patriciogonzalezvivo/thebookofshaders
-
-
 
 # Candy Unity_Shaders_Book 
 
